@@ -1,5 +1,5 @@
 # Graphcut-Textures
-A Matlab partial implementation of Kwatra et al.'s paper *Graphcut Textures: Image and Video Synthesis Using Graph Cuts*. For computing graph cuts, I used the Matlab wrapper of Vladimir Kolmogorov's C++ graph cut library. See Report.pdf for a description of the parts of the paper that were implemented and the ones that I did not.
+A partial implementation in Matlab of Kwatra et al.'s paper *Graphcut Textures: Image and Video Synthesis Using Graph Cuts*. For computing graph cuts, I used the Matlab wrapper of Vladimir Kolmogorov's C++ graph cut library. See Report.pdf for a description of the parts of the paper that were implemented and the ones that I did not.
 
 The code I wrote is "GraphCutTextures.m", "VideoGraphCutTextures.m", and "VideoGraphCutTexturesFountain.m" under the Bk_matlab folder.
 
